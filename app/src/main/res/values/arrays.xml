@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="duration_options">
+        <item>1 неделя</item>
+        <item>3 недели</item>
+        <item>1 месяц</item>
+        <item>3 месяца</item>
+        <item>6 месяцев</item>
+        <item>1 год</item>
+    </string-array>
+</resources>
